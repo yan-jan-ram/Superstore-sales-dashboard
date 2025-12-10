@@ -2,7 +2,7 @@
 ![Power BI](https://img.shields.io/badge/Built%20with-Power%20BI-teal?logo=powerbi)
 ![Excel](https://img.shields.io/badge/Analysis-Excel-orange?logo=microsoft-excel)
 ![DAX](https://img.shields.io/badge/Measures-DAX-blueviolet)
-![Dataset](https://img.shields.io/badge/Dataset-Superstore-lightgrey)
+![Dataset](https://img.shields.io/badge/Dataset-Superstore-darkblue)
 
 # 🛒 Superstore Sales Dashboard — Power BI
 
