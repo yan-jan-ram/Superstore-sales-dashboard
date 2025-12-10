@@ -1,3 +1,9 @@
+![Status](https://img.shields.io/badge/Status-Complete-brightgreen)
+![Power BI](https://img.shields.io/badge/Built%20with-Power%20BI-teal?logo=powerbi)
+![Excel](https://img.shields.io/badge/Analysis-Excel-orange?logo=microsoft-excel)
+![DAX](https://img.shields.io/badge/Measures-DAX-blueviolet)
+![Dataset](https://img.shields.io/badge/Dataset-Superstore-lightgrey)
+
 # 🛒 Superstore Sales Dashboard — Power BI
 
 This Power BI dashboard provides a comprehensive analysis of Superstore sales, profit trends, regional performance, and product insights.  
@@ -76,9 +82,9 @@ DIVIDE(
 ```DAX
 Superstore-sales-dashboard/
 │
-├── PowerBI/               # .pbix dashboard file
-├── data/                  # Dataset used for analysis
-├── screenshots/           # Images used in README
+├── Excel               
+├── screenshots/         
+├── Sales Dashboard - Super Store PBIX    
 └── README.md
 ```
 
